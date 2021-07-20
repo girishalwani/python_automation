@@ -1,0 +1,3 @@
+select * from bdh_analytic_cid.table_name where 'user'='user_name' and bdh_curation_stage.stge_table_name
+select * from bdh_analytic_cid.table_name where 'user2'='user_name2' and bdh_curation_stage.stge_table_name
+line 3
